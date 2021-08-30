@@ -1,12 +1,4 @@
-/*-----------------------------------------------------------------
-File name     : packet_test.sv
-Developers    : Brian Dickinson
-Created       : 01/08/19
-Description   : lab1  module for testing packet data
-Notes         : From the Cadence "Essential SystemVerilog for UVM" training
--------------------------------------------------------------------
-Copyright Cadence Design Systems (c)2019
------------------------------------------------------------------*/
+
 
 module packet_test;
 
