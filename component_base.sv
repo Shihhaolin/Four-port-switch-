@@ -1,12 +1,4 @@
-/*-----------------------------------------------------------------
-File name     : component_base.sv
-Developers    : Brian Dickinson
-Created       : 01/08/19
-Description   : lab5 component base class
-Notes         : From the Cadence "Essential SystemVerilog for UVM" training
--------------------------------------------------------------------
-Copyright Cadence Design Systems (c)2019
------------------------------------------------------------------*/
+
 
 virtual class component_base;
 

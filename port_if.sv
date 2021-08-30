@@ -1,12 +1,5 @@
-/*-----------------------------------------------------------------
-File name     : port_if.sv
-Developers    : Brian Dickinson
-Created       : 01/08/19
-Description   : lab6 4-Port Switch interface
-Notes         : From the Cadence "Essential SystemVerilog for UVM" training
--------------------------------------------------------------------
-Copyright Cadence Design Systems (c)2019
------------------------------------------------------------------*/
+
+
 
 interface port_if(input bit clk,reset);
 
