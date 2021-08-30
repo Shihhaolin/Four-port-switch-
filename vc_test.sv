@@ -1,12 +1,4 @@
-/*-----------------------------------------------------------------
-File name     : vc_test.sv
-Developers    : Brian Dickinson
-Created       : 01/08/19
-Description   : Test module for 4-Port Switch VC - initial test without DUT
-Notes         : From the Cadence "Essential SystemVerilog for UVM" training
--------------------------------------------------------------------
-Copyright Cadence Design Systems (c)2019
------------------------------------------------------------------*/
+
 
 module packet_test;
 
